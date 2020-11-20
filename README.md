@@ -1,6 +1,6 @@
 # TTS: Week 05, Day 05.
 
-## PrimeLab.
+## PrimeLab. [https://github.com/enier290188/tts-w05-d05/tree/master/src/com/tts/lab/prime/](https://github.com/enier290188/tts-w05-d05/tree/master/src/com/tts/lab/prime/ "https://github.com/enier290188/tts-w05-d05/tree/master/src/com/tts/lab/prime/")
 **Challenge 1:**
 
 Write a Java program to print out all the prime numbers between 1 and 100.
@@ -13,7 +13,7 @@ Write a program to compute and print out all the prime classes between 1900 and 
 
 **Required:** Write and use a method **isPrime()** to tell if a number is prime or not.
 
-## PetLab.
+## PetLab. [https://github.com/enier290188/tts-w05-d05/tree/master/src/com/tts/lab/pet/](https://github.com/enier290188/tts-w05-d05/tree/master/src/com/tts/lab/pet/ "https://github.com/enier290188/tts-w05-d05/tree/master/src/com/tts/lab/pet/")
 Create a Pet Class with the following instance variables:
 
 - name (PRIVATE)
